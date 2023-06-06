@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    width: 1200px;
+    background-color: rgba(137, 214, 214, 0.747);
+    margin: 0 auto;
+    padding: 30px;
+
+
+}
+.header {
+
+}
+.profile-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+
+
+}
+#heading-text{
+    float: left;
+    padding: 40px;
+    color: rgb(4, 112, 76);
+
+}
+.heading-info{
+    float: right;
+    padding: 30px;
+
+
+}
+.heading-info a{
+    display: block;
+    text-decoration: none;
+    color: rgb(4, 112, 76);
+    font-weight: 600;
+
+}
+.heading-info a:hover {
+    text-decoration: underline;
+    color: rebeccapurple;
+
+}
+.div-clear{
+    clear: both;
+
+}
+hr{
+    margin-top: 20px;
+    border: 2px solid gray;
+}
+.personal-information{
+    margin-top: 30px;
+
+
+}
+h3{
+    color: rgb(4, 112, 76);
+
+}
+.left{
+    width: 30%;
+    float: left;
+
+}
+.right{
+    width: 70%;
+    float: right;
+
+}
+.hr2{
+    border: 1px solid gray;
+    margin-bottom: 30px;
+
+
+}
+.working-section{
+
+}
+.right > h3{
+    margin: 5px;
+    margin-left: 0;
+
+}
+.right p{
+    color: rgb(4, 112, 76);
+}
+.reference-1{
+    width: 50%;
+    float: left;
+}
+.bottom-section{
+
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.social-media{
+    padding: 20px ;
+    margin: 0 auto;
+
+}
+.social-media a{
+    text-decoration: none;
+    color: #fff;
+    margin: 10px 30px;
+
+}
